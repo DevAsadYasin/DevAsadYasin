@@ -1,10 +1,6 @@
 <div align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDEyMDAgMjAwIiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IkFzYWQgWWFzaW4iPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwQTE2MjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI0NSUiIHN0b3AtY29sb3I9IiMwRDRGNUMiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMTRCOEE2Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIyMDAiIGZpbGw9InVybCgjZykiLz4KICA8cGF0aCBmaWxsPSIjMEExNjI4IiBmaWxsLW9wYWNpdHk9IjAuMjUiIGQ9Ik0wIDE1MCBRIDMwMCAxMjAgNjAwIDE0NSBUIDEyMDAgMTQwIEwgMTIwMCAyMDAgTCAwIDIwMCBaIi8+CiAgPHBhdGggZmlsbD0iIzAyMDYxNyIgZmlsbC1vcGFjaXR5PSIwLjM1IiBkPSJNMCAxNjUgUSAzMDAgMTQ1IDYwMCAxNjggVCAxMjAwIDE2MCBMIDEyMDAgMjAwIEwgMCAyMDAgWiIvPgogIDx0ZXh0IHg9IjYwMCIgeT0iODgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNGRkZGRkYiIGZvbnQtZmFtaWx5PSJTZWdvZSBVSSwgSGVsdmV0aWNhLCBBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSI1NCIgZm9udC13ZWlnaHQ9IjcwMCI+QXNhZCBZYXNpbjwvdGV4dD4KICA8dGV4dCB4PSI2MDAiIHk9IjEyOCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iI0NCRDVFMSIgZm9udC1mYW1pbHk9IlNlZ29lIFVJLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjIyIiBmb250LXdlaWdodD0iNTAwIj5TZW5pb3IgRnVsbCBTdGFjayBhbmQgQUkgRW5naW5lZXI8L3RleHQ+Cjwvc3ZnPg==" alt="Asad Yasin" width="100%" />
-</div>
-
-<div align="center">
   <a href="https://github.com/DevAsadYasin">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=14B8A6&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=Senior+Full+Stack+Engineer;AI+%26+LLM+Integration+Specialist;Building+production+ready+RAG+systems" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;pause=1000&amp;color=14B8A6&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=80&amp;lines=Asad+Yasin;Senior+Full+Stack+Engineer;AI+%26+LLM+Integration+Specialist;Building+production+ready+RAG+systems" alt="Asad Yasin" />
   </a>
 </div>
 
@@ -236,8 +232,4 @@ Beyond client and product work, I spend time on agentic systems, RAG architectur
 
 Let's build something. Happy to talk about collaboration, freelance, or consulting when there is a clear problem worth solving.
 
-</div>
-
-<div align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjEyMCIgdmlld0JveD0iMCAwIDEyMDAgMTIwIiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IiI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdmIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMxNEI4QTYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1NSUiIHN0b3AtY29sb3I9IiMwRDRGNUMiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMEExNjI4Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIxMjAiIGZpbGw9InVybCgjZ2YpIi8+CiAgPHBhdGggZmlsbD0iIzAyMDYxNyIgZmlsbC1vcGFjaXR5PSIwLjQ1IiBkPSJNMCAwIEwgMTIwMCAwIEwgMTIwMCA0NSBRIDkwMCA3NSA2MDAgNTAgVCAwIDU1IFoiLz4KICA8cGF0aCBmaWxsPSIjMDIwNjE3IiBmaWxsLW9wYWNpdHk9IjAuMjUiIGQ9Ik0wIDAgTCAxMjAwIDAgTCAxMjAwIDMwIFEgOTAwIDU1IDYwMCAzNSBUIDAgNDAgWiIvPgo8L3N2Zz4=" alt="" width="100%" />
 </div>
