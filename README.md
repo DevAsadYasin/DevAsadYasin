@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/DevAsadYasin">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;pause=1000&amp;color=14B8A6&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=80&amp;lines=Asad+Yasin;Senior+Full+Stack+Engineer;AI+%26+LLM+Integration+Specialist;Building+production+ready+RAG+systems" alt="Asad Yasin" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;pause=1000&amp;color=14B8A6&amp;center=true&amp;vCenter=true&amp;width=780&amp;height=80&amp;lines=Asad+Yasin;Full+Stack+Software+Engineer;Frontend+and+Backend+Expert;Building+products+from+scratch;Crafting+scalable+solutions" alt="Asad Yasin" />
   </a>
 </div>
 
@@ -15,9 +15,9 @@
 
 <br />
 
-I am a Senior Full Stack and AI Engineer with 6 years of experience designing and shipping production web applications, and more recently LLM powered systems. I focus on taking AI prototypes that fall apart under real usage (rate limits, runaway costs, slow retrieval) and turning them into reliable products.
+I am a Full Stack Software Engineer with 6 years of experience building production web applications from the ground up. Frontend and backend are both part of how I work day to day: clean interfaces, solid APIs, and systems that hold up as traffic and complexity grow.
 
-I own delivery end to end: architecture, backend APIs, frontend UI, CI/CD, and cloud infrastructure across AWS, GCP, and Azure. That spans full time product work, client engagements, and independent builds through **13Stack**, my software studio. Alongside the featured work below I have shipped many other systems, from employee communication platforms and fintech data pipelines to internal tooling and SaaS experiments.
+I own delivery end to end: product architecture, React and Next.js UIs, Python and Node backends, CI/CD, and cloud infrastructure across AWS, GCP, and Azure. That spans full time product work, client engagements, and independent builds through **13Stack**, my software studio. Alongside the featured work below I have shipped many other systems, from employee communication platforms and fintech data pipelines to internal tooling and SaaS products. Where it fits, I also bring AI and LLM capabilities into those products without letting the stack become the story.
 
 Open to select freelance and consulting work when the problem is interesting and the fit is right.
 
@@ -170,7 +170,7 @@ A sample of recent client and product work, not the full list. Across full time 
 
 ## Open Source & Experiments
 
-Beyond client and product work, I spend time on agentic systems, RAG architectures, and MLOps patterns. My pinned repositories below include production grade examples such as multi agent RAG setups, MCP servers, and sentiment analysis pipelines.
+Beyond client and product work, I experiment with new product ideas, open source tooling, and systems that stretch full stack delivery. My pinned repositories below include production grade examples across backend services, frontend apps, MCP servers, and applied AI where it adds real value.
 
 <table>
   <tr>
